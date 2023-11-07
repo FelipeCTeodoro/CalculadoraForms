@@ -220,7 +220,7 @@
             this.btnDivisao.Name = "btnDivisao";
             this.btnDivisao.Size = new System.Drawing.Size(49, 38);
             this.btnDivisao.TabIndex = 15;
-            this.btnDivisao.Text = "%";
+            this.btnDivisao.Text = "÷";
             this.btnDivisao.UseVisualStyleBackColor = true;
             this.btnDivisao.Click += new System.EventHandler(this.Operador_Click);
             // 
